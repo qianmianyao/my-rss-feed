@@ -1,26 +1,229 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>我的 RSS 测试</title>
+    <title>2026年2月6日 日刊 - 精选科技资讯</title>
     <link>https://github.com/qianmianyao/my-rss-feed</link>
-    <description>这是一个测试 RSS Feed</description>
-    <language>zh-CN</language>
-    <lastBuildDate>Wed, 05 Feb 2026 14:30:00 GMT</lastBuildDate>
+    <description>每日精选科技资讯 RSS 日刊 - 2026年2月6日</description>
+    <language>zh-cn</language>
+    <pubDate>Fri, 06 Feb 2026 00:00:00 GMT</pubDate>
+    <lastBuildDate>Fri, 06 Feb 2026 00:00:00 GMT</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/qianmianyao/my-rss-feed/main/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>测试文章 1</title>
-      <link>https://example.com/post1</link>
-      <description>这是第一篇测试文章的内容</description>
-      <pubDate>Wed, 05 Feb 2026 14:00:00 GMT</pubDate>
-      <guid>https://example.com/post1</guid>
+      <title>【Tw93 Weekly】第256期 - 上野天空</title>
+      <link>https://weekly.tw93.fun/posts/256/</link>
+      <guid>https://weekly.tw93.fun/posts/256/</guid>
+      <pubDate>Mon, 02 Feb 2026 00:00:00 GMT</pubDate>
+      <source>Tw93 Weekly</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>本期周刊涵盖了作者对比特币市场波动的思考，将其比作"大教堂与赌场"——价格波动来自赌场一侧，而长期回报需要持续投入建设大教堂。作者分享了极简生活经验，庆祝 GitHub 代码仓库突破10万 star。重点介绍了 Mole 1.24 版本的更新，包括更智能的清理功能、卸载残留检测、第三方防火墙识别等改进。此外还推荐了 Codia AI NoteSlide（PDF转PPT工具）、Battery（Mac电池保护工具）和 Gatus（开发者健康监控工具）等实用工具。本期还分享了全球AI行业流量追踪报告，以及关于如何组织年轻人喜欢的团建活动的建议。</p>
+      <p><em>来源：Tw93 Weekly</em></p>
+      ]]></description>
     </item>
     
     <item>
-      <title>测试文章 2</title>
-      <link>https://example.com/post2</link>
-      <description>这是第二篇测试文章的内容</description>
-      <pubDate>Wed, 05 Feb 2026 14:30:00 GMT</pubDate>
-      <guid>https://example.com/post2</guid>
+      <title>【Tw93 Weekly】第255期 - 好吃鸡翅</title>
+      <link>https://weekly.tw93.fun/posts/255/</link>
+      <guid>https://weekly.tw93.fun/posts/255/</guid>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 GMT</pubDate>
+      <source>Tw93 Weekly</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>本期收录了243位工程师分享的好物推荐，涵盖电子设备、软件和生活用品。Pake 更新至3.8.1版本，新增第三方登录弹窗支持、全屏视频播放、Linux RPM打包等功能。推荐了 MemOS（AI Agent长期记忆方案）、Toad（统一AI界面终端）、Mammalia-tree（哺乳动物演化3D可视化项目）和 pomo（终端番茄钟）等创新工具。此外还分享了徒手攀爬台北101的纪录片推荐，以及作者对2026年投资方向的个人展望。</p>
+      <p><em>来源：Tw93 Weekly</em></p>
+      ]]></description>
     </item>
+    
+    <item>
+      <title>【Tw93 Weekly】第254期 - 二零二六</title>
+      <link>https://weekly.tw93.fun/posts/254/</link>
+      <guid>https://weekly.tw93.fun/posts/254/</guid>
+      <pubDate>Mon, 19 Jan 2026 00:00:00 GMT</pubDate>
+      <source>Tw93 Weekly</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>本期主要内容包括作者翻译的 Simon Willison《2025大语言模型年度回顾》，帮助读者全面了解AI领域发展。Mole工具更新至1.22版本，强化了卸载安全性、终端体验和状态监控功能。推荐了 tailspin（日志查看工具）。本期重点分享了一小时了解金融投资知识的视频资源，详细解读了资产负债表、损益表、现金流量表三张核心财务报表，以及融资、IPO、复利、回撤等投资概念。作者还分享了使用 Manus AI分析投资组合的体验，以及杭州美食推荐。</p>
+      <p><em>来源：Tw93 Weekly</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【Onojyun】我不再写"我"</title>
+      <link>https://onojyun.com/2026/02/05/%e6%88%91%e4%b8%8d%e5%86%8d%e5%86%99%e3%80%8c%e6%88%91%e3%80%8d/</link>
+      <guid>https://onojyun.com/2026/02/05/%e6%88%91%e4%b8%8d%e5%86%8d%e5%86%99%e3%80%8c%e6%88%91%e3%80%8d/</guid>
+      <pubDate>Thu, 05 Feb 2026 02:00:00 GMT</pubDate>
+      <source>Onojyun</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>作者反思了自己从写议论文到写"我"的转变过程。作为"痛苦驱动型"创作者，作者习惯用冷漠的旁观者视角拆解自己的情感，将情绪"生吞"下去。但通过回忆童年学画的经历——一幅受潮晕染的风景画让作者意识到，当故事没有结论时，任何人都可能质疑其虚伪。作者探讨了"真诚地记录自我"与"被他人理解"之间的悖论：客观地记录"我"存在于镜像之中，而镜子另一端取决于每个人希望自己在别人眼中的模样。最终作者决定继续写"我"，但接受文字背后的自己会随时间晕染、淡去。</p>
+      <p><em>来源：Onojyun (莫比乌斯)</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【Onojyun】这算不算是童年遗憾？</title>
+      <link>https://onojyun.com/2026/02/04/%e8%bf%99%e7%ae%97%e4%b8%8d%e7%ae%97%e6%98%af%e7%ab%a5%e5%b9%b4%e9%81%97%e6%86%be%ef%bc%9f/</link>
+      <guid>https://onojyun.com/2026/02/04/%e8%bf%99%e7%ae%97%e4%b8%8d%e7%ae%97%e6%98%af%e7%ab%a5%e5%b9%b4%e9%81%97%e6%86%be%ef%bc%9f/</guid>
+      <pubDate>Wed, 04 Feb 2026 02:31:05 GMT</pubDate>
+      <source>Onojyun</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>作者回应读者对"童年非日记"系列的反馈，探讨童年遗憾的主题。通过回忆小学时爷爷因脑溢血去世的经历——中巴车的柴油味、发烫的引擎盖、蒸腾的白醋——作者追溯了对"家"这个概念逐渐消解的过程。爷爷留下的火车玩具成为珍贵的记忆符号，但作者已经没办法把写的作品给他看了。成年后拒绝奶奶资助买车的提议，是出于"不想让她拥有控制我的机会"，这被作者定义为"不孝"。文章最终表达了这样一个认识：如果情感基础从未建立，弥补遗憾就无从谈起，"我的世界只有我一个人"。</p>
+      <p><em>来源：Onojyun (莫比乌斯)</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【Onojyun】雕塑</title>
+      <link>https://onojyun.com/2026/02/03/%e9%9b%95%e5%a1%91/</link>
+      <guid>https://onojyun.com/2026/02/03/%e9%9b%95%e5%a1%91/</guid>
+      <pubDate>Tue, 03 Feb 2026 06:00:00 GMT</pubDate>
+      <source>Onojyun</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>这是一篇讽刺性短小说。小王的雕塑获奖后被质疑抄袭已故艺术家未公开的遗作。面对指责，小王辩称"如果不是我，你们怎么会知道这部作品"，否认抄袭。当讨伐声越来越多时，小王展示了雕塑的"隐藏功能"——按下开关后雕像分裂出一扇门，里面竟是一个内置大彩电的电冰箱。他以这种荒谬的"创新"来证明自己作品的"原创性"。故事讽刺了某些创作者面对抄袭指控时，用花哨但无关的功能来转移注意力的现象。</p>
+      <p><em>来源：Onojyun (莫比乌斯)</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【阮一峰】科技爱好者周刊（第 383 期）：你是第几级 AI 编程</title>
+      <link>http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html</link>
+      <guid>http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html</guid>
+      <pubDate>Fri, 30 Jan 2026 00:10:32 GMT</pubDate>
+      <source>阮一峰的网络日志</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>本期周刊介绍了著名程序员 Steve Yegge 提出的"AI编程8级"理论：从第1级尚未接触AI编程，到第8级使用AI任务编排器管理并行AI编程。Yegge本人已到达第8级，并开发了名为"煤气镇"（Gas Town）的工具，22.5万行Go代码完全由AI生成，他本人从未看过代码。周刊还报道了奥地利农民发现牛会使用工具挠痒、美国公司的轨道储能系统、UCLA的喉部发声贴片等科技动态。工具推荐包括teemux、daedalOS、Dendron等。文摘部分探讨了"黑箱编程"现象——有些公司已将编程完全交给AI，AI写什么就运行什么。</p>
+      <p><em>来源：阮一峰的网络日志</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【阮一峰】Kimi 的一体化，Manus 的分层</title>
+      <link>http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html</link>
+      <guid>http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html</guid>
+      <pubDate>Thu, 29 Jan 2026 08:02:30 GMT</pubDate>
+      <source>阮一峰的网络日志</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>本文分析了Kimi K2.5模型发布的重要意义。K2.5在编码能力上位列开源模型第一，总榜仅次于Claude和Gemini。更重要的是，Kimi首次将大模型与Agent一体化发布，推出了K2.5 Agent，包含Office文档生成、Kimi Code命令行工具、长程操作（1500步）、视觉编程（根据设计稿/视频生成网页）和蜂群功能（100个Agent并发）等特性。这与被Meta收购的Manus采用的分层开发模式形成对比。作者测试了视觉编程功能，上传动画视频和网站视频后，AI生成的还原度超出预期。Kimi的一体化模式不存在技术"卡脖子"风险，是其额外优势。</p>
+      <p><em>来源：阮一峰的网络日志</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【阮一峰】科技爱好者周刊（第 382 期）：独立软件的黄昏</title>
+      <link>http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html</link>
+      <guid>http://www.ruanyifeng.com/blog/2026/01/weekly-issue-382.html</guid>
+      <pubDate>Fri, 23 Jan 2026 00:13:47 GMT</pubDate>
+      <source>阮一峰的网络日志</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>本期探讨了独立软件（indie software）衰落的现象。2005年后互联网普及带来了独立软件的黄金年代，但最近两三年情况发生了变化：AI改变了互联网流量模式，独立软件失去推广渠道；AI降低了开发门槛，加剧竞争；应用商店偏好大公司软件；用户习惯基于网络的软件；平台风险增加；用户期望软件免费。作者认为独立软件时代可能真的要结束了，个人开发者将转向SaaS服务。科技动态包括VS Code定位变为"开源AI代码编辑器"、智能脖巾帮助失声患者、迪斯尼雪宝机器人等。文摘分享了谷歌14年工作的教训，强调沟通、获得他人推荐、专注可控之事的重要性。</p>
+      <p><em>来源：阮一峰的网络日志</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【AI Insight Daily】2026-02-05日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-05/</link>
+      <guid>https://ai.hubtoday.app//2026-02/2026-02-05/</guid>
+      <pubDate>Thu, 05 Feb 2026 07:55:12 GMT</pubDate>
+      <source>AI Insight Daily</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>本期AI日报涵盖多个重要动态。产品更新方面：面壁智能开源全双工交互模型MiniCPM-o；钉钉发布智能体系统重塑工作方式；智谱AI推出解决图片文字渲染的模型；苹果Xcode支持Agent编码引发隐私争议。前沿研究领域：美团提出打破理解生成僵局的全能模型；生成式模型自动进化出最优增强策略；视觉模型采用螺旋编码突破方向限制；新方法实现无参考图像风格稳定生成。行业动态：Anthropic估值飙升推进员工股权套现；工信部发力AI+制造构建智能工业；微信严打诱导分享封禁腾讯元宝。开源项目：阿里发布专为Agent设计的开源代码模型。</p>
+      <p><em>来源：AI Insight Daily</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【AI Insight Daily】2026-02-04日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-04/</link>
+      <guid>https://ai.hubtoday.app//2026-02/2026-02-04/</guid>
+      <pubDate>Wed, 04 Feb 2026 07:55:10 GMT</pubDate>
+      <source>AI Insight Daily</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>本期聚焦多个AI重要发布。OpenAI发布Codex桌面应用，支持多Agent并行运行和自定义技能管理；智谱GLM-5和MiniMax M2.2将在春节前发布，主打编程和推理能力。前沿研究方面：腾讯混元发布CL-bench基准，显示模型平均只能解决17.2%的复杂逻辑任务；ProjDevBench评测AI端到端项目开发，六个编码Agent通过率仅27.38%；研究者用强化学习训练LLM生成推理链，让AI能解释自己的决策；研究揭示RLVR训练不稳定是因为token级信用错配产生虚假信号。行业方面：马斯克宣布SpaceX合并xAI，合并后估值达1.25万亿美元。</p>
+      <p><em>来源：AI Insight Daily</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【AI Insight Daily】2026-02-03日刊</title>
+      <link>https://ai.hubtoday.app//2026-02/2026-02-03/</link>
+      <guid>https://ai.hubtoday.app//2026-02/2026-02-03/</guid>
+      <pubDate>Tue, 03 Feb 2026 07:55:10 GMT</pubDate>
+      <source>AI Insight Daily</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>本期报道微软因Copilot强制集成引发用户不满，正在重新评估AI策略；Grok推出Imagine 1.0，可免费生成10秒视频；千问App投30亿做春节免单，2月6日上线生活服务功能；蚂蚁推AI Credit激励员工用AI，百灵大模型已发布18款；Kimi海外收入超国内，K2.5发布后全球付费用户翻四倍。前沿研究：北大斯坦福让AI自己发现Scaling Law，预测精度超人类专家；新研究用逻辑谜题热身训练，100样本以下也能提升推理能力；VideoGPA用几何先验蒸馏解决视频生成的3D结构漂移问题；AccidentSim从事故报告生成逼真碰撞视频用于自动驾驶研究。</p>
+      <p><em>来源：AI Insight Daily</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【Jeff Geerling】Ode to the AA Battery</title>
+      <link>https://www.jeffgeerling.com/blog/2026/ode-tothe-aa-battery/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/</guid>
+      <pubDate>Thu, 29 Jan 2026 11:00:00 GMT</pubDate>
+      <source>Jeff Geerling</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>作者对AA/AAA可充电电池表达了由衷赞美。现代内置锂电池设备普遍存在过放电问题——长时间不用后电池损坏，设备无法充电最终沦为电子垃圾。相比之下，Eneloop等镍氢充电电池可循环使用2000次以上，14年来128节电池中仅一节报废。作者分享了使用Fluke万用表、修复旧Sony Walkman等经历，强调标准电池尺寸的优势：可随时更换、长期存储、设备寿命远超锂电池产品。对于不需要便携的设备，作者推荐使用USB-C供电（无电池），既安全又环保。文章反思了追求轻薄带来的不可维修性和电子垃圾问题。</p>
+      <p><em>来源：Jeff Geerling</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【Jeff Geerling】Recapping My 5 Year Old Studio Monitors</title>
+      <link>https://www.jeffgeerling.com/blog/2026/recapping-my-5-year-old-studio-monitors/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/recapping-my-5-year-old-studio-monitors/</guid>
+      <pubDate>Mon, 26 Jan 2026 17:05:00 GMT</pubDate>
+      <source>Jeff Geerling</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>作者的PreSonus Eris E3.5监听音箱使用5年后出现杂音问题。起初仅在音量最大时出现细微爆裂声，后来发展到持续滴答声和静电噪音。经过诊断发现是两个1000µf 25V电容鼓包失效。作者拆机更换为35V电容后修复成功，挽救了这对音箱。文章记录了维修过程：拆下背板、处理内部胶水、更换鼓包电容、重新焊接断开的连接线。作者强调音频设备对其YouTube工作的重要性，这次维修不仅省下了购置新音箱的费用，也减少了电子垃圾。文章附有详细的拆解视频链接。</p>
+      <p><em>来源：Jeff Geerling</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【Jeff Geerling】Migrating 13,000 Comments from Drupal to Hugo</title>
+      <link>https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo/</link>
+      <guid>https://www.jeffgeerling.com/blog/2026/migrating-13000-comments-from-drupal-to-hugo/</guid>
+      <pubDate>Tue, 20 Jan 2026 20:43:00 GMT</pubDate>
+      <source>Jeff Geerling</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>作者完成了从Drupal到Hugo的迁移，将13,189条评论从Drupal 10导入到Remark42评论系统。文章详细记录了使用本地LLM（GPT-OSS 20B和Qwen3 Coder 30B）辅助编写迁移脚本的经验，称赞AI可将原本需要数天的开发工作缩短到几小时，但也担忧这可能导致"专家初学者"现象——缺乏资深开发者指导的初级开发者使用AI工具时看不到代码中的隐患。作者介绍了Remark42的部署过程、与Hugo的集成、以及解决SSL和Docker配置问题的经验。最终目标是将网站转为静态托管，降低DDoS攻击风险并减少维护负担。</p>
+      <p><em>来源：Jeff Geerling</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【Simon Willison】Spotlighting The World Factbook as We Bid a Fond Farewell</title>
+      <link>https://simonwillison.net/2026/Feb/5/the-world-factbook/</link>
+      <guid>https://simonwillison.net/2026/Feb/5/the-world-factbook/</guid>
+      <pubDate>Fri, 06 Feb 2026 00:23:38 GMT</pubDate>
+      <source>Simon Willison</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>CIA宣布终止维护自1971年起发布的《世界概况手册》（The World Factbook），这是该机构最有用的公开出版物。令人遗憾的是，CIA不仅关闭了整个网站（包括历史档案），还将所有页面302重定向到关闭公告。Willison指出该资料一直处于公有领域，完全可以在页面顶部添加"不再维护"的横幅而非彻底删除。他从互联网档案馆下载了2020年的384MB存档文件，创建GitHub仓库simonw/cia-world-factbook-2020并启用GitHub Pages，使这份珍贵资料得以继续访问。文章还引用了2020年关于中尼两国确认珠穆朗玛峰新高度的有趣记录。</p>
+      <p><em>来源：Simon Willison's Weblog</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【Simon Willison】Voxtral transcribes at the speed of sound</title>
+      <link>https://simonwillison.net/2026/Feb/4/voxtral-2/</link>
+      <guid>https://simonwillison.net/2026/Feb/4/voxtral-2/</guid>
+      <pubDate>Thu, 05 Feb 2026 22:42:34 GMT</pubDate>
+      <source>Simon Willison</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>Mistral发布Voxtral Transcribe 2语音转文字模型家族，包含两个版本：Voxtral Realtime（Apache-2.0开源，8.87GB，4B参数）和闭源的voxtral-mini-latest。开源版本可在Hugging Face下载，在线演示效果令人印象深刻——快速说话和使用Django、WebAssembly等专业术语都能准确转录。API定价为0.003美元/分钟（约0.18美元/小时），支持说话人分离、上下文偏置和时间戳粒度控制。Mistral控制台新增了语音转文字playground，可上传音频文件获取转录文本，支持导出为文本、SRT或JSON格式。这是Mistral Whisper类模型家族的最新成员。</p>
+      <p><em>来源：Simon Willison's Weblog</em></p>
+      ]]></description>
+    </item>
+    
+    <item>
+      <title>【Simon Willison】Distributing Go binaries like sqlite-scanner through PyPI using go-to-wheel</title>
+      <link>https://simonwillison.net/2026/Feb/4/distributing-go-binaries/</link>
+      <guid>https://simonwillison.net/2026/Feb/4/distributing-go-binaries/</guid>
+      <pubDate>Thu,05 Feb 2026 14:59:47 GMT</pubDate>
+      <source>Simon Willison</source>
+      <description><![CDATA[
+      <p><strong>摘要：</strong>作者介绍了一种通过PyPI分发Go二进制文件的创新方法。他创建了sqlite-scanner工具（用Go编写的SQLite数据库扫描器），并开发了go-to-wheel工具将Go二进制文件打包成Python wheel，支持Windows、Linux、macOS等多种平台。用户只需pip install或uvx即可运行，无需关心Go编译。这一模式的优势在于：PyPI的包管理系统会自动选择正确的平台版本，Go二进制可作为Python包的依赖。作者还创建了datasette-scan插件演示这种模式，并指出这开启了将Go生态系统与Python无缝集成的新可能。文章详细介绍了wheel文件结构、入口点配置和使用Claude Code开发go-to-wheel工具的过程。</p>
+      <p><em>来源：Simon Willison's Weblog</em></p>
+      ]]></description>
+    </item>
+    
   </channel>
 </rss>
