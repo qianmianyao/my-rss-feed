@@ -5,7 +5,57 @@
     <link>https://github.com/qianmianyao/my-rss-feed</link>
     <description>每日精选科技文章聚合</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 05 Feb 2026 15:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 08:00:00 GMT</lastBuildDate>
+    
+    <item>
+      <title>2026年2月6日 日刊 - 精选科技资讯</title>
+      <link>https://qianmianyao.github.io/my-rss-feed/</link>
+      <description><![CDATA[
+        <h2>今日精选</h2>
+        
+        <h3>📰 Tw93 Weekly</h3>
+        <ul>
+          <li><a href="https://weekly.tw93.fun/posts/256/">第256期 - 上野天空</a> - 封面图拍摄于东京上野公园附近的天空，刚好有飞机飞过，蓝色与树木结合很有感觉。本期分享比特币市场从12万高点回落至7万多的思考，作者重新理解"大教堂与赌场"理论——价格波动来自赌场般的投机，而长期价值来自像修建大教堂般的持续投入。同时分享极简生活经验、GitHub突破10万星的里程碑，以及Mac清理工具Mole 1.24版本的详细更新，包括智能清理、强制更新、残留检测等功能优化。</li>
+          <li><a href="https://weekly.tw93.fun/posts/255/">第255期 - 好吃鸡翅</a> - 收录243位工程师分享的好物推荐，涵盖电子设备、软件、生活用品等。Pake更新至3.8.1版本，支持第三方登录弹窗、全屏视频、Linux RPM打包等。介绍MemOS长期记忆方案解决AI Agent记忆管理问题，以及Toad统一终端AI界面、3D哺乳动物演化可视化项目pomo终端番茄钟等工具。</li>
+        </ul>
+        
+        <h3>📰 阮一峰的网络日志</h3>
+        <ul>
+          <li><a href="http://www.ruanyifeng.com/blog/2026/01/weekly-issue-383.html">科技爱好者周刊（第 383 期）：你是第几级 AI 编程</a> - 本期封面展示四川宜宾高铁枢纽门户区。核心文章深入解读史蒂夫·耶格提出的"AI编程8级"理论，从第1级未接触AI编程到第8级使用AI任务编排器并行管理多个编程任务。科技动态包括牛使用工具的新发现、山地轨道储能系统、喉部发声贴片帮助失声患者。推荐多个开源工具和AI相关项目。</li>
+          <li><a href="http://www.ruanyifeng.com/blog/2026/01/kimi_k2.5.html">Kimi 的一体化，Manus 的分层</a> - 分析Kimi发布K2.5模型及其Agent的一体化策略，与Manus分层开发的对比。K2.5在编码能力上排名开源模型第一，总榜仅次于Claude和Gemini。K2.5 Agent具备视觉编程能力，可上传设计稿和视频生成网页，还支持蜂群功能自动调用最多100个Agent并发执行任务。</li>
+        </ul>
+        
+        <h3>📰 AI Insight Daily</h3>
+        <ul>
+          <li><a href="https://ai.hubtoday.app//2026-02/2026-02-06/">2026-02-06日刊</a> - 可灵AI发布3.0版本，支持智能分镜与4K视频生成；腾讯游戏升级寒假防沉迷，引入AI管控与个性化周报；天工上线桌面版AI助手，具备系统级文件处理能力。前沿研究方面，蚂蚁灵波开源四款具身智能模型；大模型通过分析上下文与用户画像精准判断政治立场；PromptSplit框架检测模型分歧。行业动态包括谷歌成为苹果首选云服务商、我国生成式AI用户突破六亿、a16z筹集17亿美元投向AI基建。</li>
+          <li><a href="https://ai.hubtoday.app//2026-02/2026-02-05/">2026-02-05日刊</a> - 面壁智能开源全双工交互模型MiniCPM-o；钉钉发布智能体系统重塑工作方式；智谱AI推出模型解决图片文字渲染问题；苹果Xcode支持Agent编码引隐私争议。前沿研究包括美团提出全能模型打破理解生成僵局、生成式模型自动进化出最优增强策略、视觉模型采用螺旋编码突破方向限制。</li>
+        </ul>
+        
+        <h3>📰 Jeff Geerling</h3>
+        <ul>
+          <li><a href="https://www.jeffgeerling.com/blog/2026/ode-to-the-aa-battery/">Ode to the AA Battery</a> - 作者通过iFixit焊台因内置电池过放损坏的案例，反思内置可充电电池设备的问题。虽然现代锂电池续航出色，但内置电池意味着设备寿命受限于电池寿命。相比之下，使用AA等标准电池的设备可以通过更换电池无限延长使用寿命，更加环保和可持续。文章呼吁厂商考虑使用标准电池而非内置电池。</li>
+          <li><a href="https://www.jeffgeerling.com/blog/2026/recapping-my-5-year-old-studio-monitors/">Recapping My 5 Year Old Studio Monitors</a> - 作者修复使用5年的PreSonus Eris E3.5监听音箱，解决最大音量时的轻微爆裂声问题。通过更换电容让老旧设备恢复如新，体现了维修而非更换的环保理念。</li>
+        </ul>
+        
+        <h3>📰 Simon Willison</h3>
+        <ul>
+          <li><a href="https://simonwillison.net/2026/Feb/5/ai-adoption-journey/">Mitchell Hashimoto: My AI Adoption Journey</a> - Mitchell Hashimoto分享AI编程采用历程的实用技巧：1) 复现自己的工作——手动完成后再用AI重新实现相同结果；2) 每日结束前30分钟启动AI Agent，让其在非工作时间继续推进；3) 外包"稳操胜券"的任务——让AI处理已知的简单任务，自己专注更有趣的工作。这些方法帮助他将AI真正融入工作流程。</li>
+          <li><a href="https://simonwillison.net/2026/Feb/5/two-new-models/">Opus 4.6 and Codex 5.3</a> - Anthropic发布Opus 4.6，OpenAI发布GPT-5.3-Codex。两个模型都有显著提升，但与前代相比难以找到前者无法处理而新模型能轻松解决的任务。最引人注目的是Anthropic使用并行Claude团队构建C编译器的项目，展示了多Agent协作的潜力。</li>
+          <li><a href="https://simonwillison.net/2026/Feb/5/the-world-factbook/">Spotlighting The World Factbook as We Bid a Fond Farewell</a> - CIA宣布停止使用其最著名的公开情报出版物《世界概况手册》，该手册自1971年开始发布，1997年起在网上公开。令人遗憾的是，CIA不仅关闭了网站，还将所有页面重定向到关闭公告。Simon已将2020年的版本上传到GitHub并启用Pages服务，以便公众继续访问这份珍贵的历史资料。</li>
+        </ul>
+        
+        <h3>📰 Onojyun (莫比乌斯)</h3>
+        <ul>
+          <li><a href="https://onojyun.com/2026/02/05/%e6%88%91%e4%b8%8d%e5%86%8d%e5%86%99%e3%80%8c%e6%88%91%e3%80%8d/">我不再写"我"</a> - 作者反思2026年开年决定告别议论文写作后的过渡期。文章深刻探讨了"我"在写作中的呈现，从冷漠的旁观者视角转向不再试图提供拆解后的结论。通过回忆童年学画的经历——一幅因潮湿而"流汤儿"的风景画，表达了客观记录"我"并不是件难事，但镜子的另一端取决于每个人希望自己在别人眼中的模样。当故事没有结论时，任何人都有质疑其虚伪的权利。</li>
+          <li><a href="https://onojyun.com/2026/02/04/%e8%bf%99%e7%ae%97%e4%b8%8d%e7%ae%97%e6%98%af%e7%ab%a5%e5%b9%b4%e9%81%97%e6%86%be%ef%bc%9f/">这算不算是童年遗憾？</a> - 回忆童年时从爷爷那里得到的火车玩具，以及爷爷去世后对"家"的概念的重新思考。文章描述了童年被迫打包玩具让给即将出生的堂妹的经历，探讨了遗憾、记忆和中国式家庭关系的复杂情感。</li>
+        </ul>
+        
+        <hr>
+        <p><small>Generated on 2026-02-06 by RSS Daily Aggregator | 数据来源：Tw93 Weekly, 阮一峰网络日志, AI Insight Daily, Jeff Geerling, Simon Willison, Onojyun</small></p>
+      ]]></description>
+      <pubDate>Fri, 06 Feb 2026 08:00:00 GMT</pubDate>
+      <guid>https://qianmianyao.github.io/my-rss-feed/2026-02-06</guid>
+    </item>
     
     <item>
       <title>2026年2月5日 日刊</title>
